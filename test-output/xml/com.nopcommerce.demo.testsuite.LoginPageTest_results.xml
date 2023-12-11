@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.031">
+  <properties />
+  
+  
+            <testcase name="verifyThatUserShouldLogInSuccessFullyWithValidCredentials" time="4.128" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="1.553" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+                <testcase name="userShouldNavigateToLoginPageSuccessFully" time="0.453" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+                <testcase name="VerifyThatUserShouldLogOutSuccessFully" time="1.897" classname="com.nopcommerce.demo.testsuite.LoginPageTest" />
+      
+</testsuite>
